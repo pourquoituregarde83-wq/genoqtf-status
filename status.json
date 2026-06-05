@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "maintenance": false,
+  "maintenance": true,
   "maintenanceMessage": "En maintenance, revenez plus tard.",
   "latestVersion": "2.0"
 }
