@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "maintenance": false,
-  "maintenanceMessage": "testeur",
+  "maintenance": true,
+  "maintenanceMessage": "testeur 1234",
   "latestVersion": "2.0"
 }
