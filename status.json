@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "maintenance": false,
-  "maintenanceMessage": "testeur 1234",
+  "maintenance": true,
+  "maintenanceMessage": "solotyrox on flop",
   "latestVersion": "2.0"
 }
