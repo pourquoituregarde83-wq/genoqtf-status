@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "maintenance": true,
-  "maintenanceMessage": "solotyrox on top",
+  "maintenance": false,
+  "maintenanceMessage": "",
   "latestVersion": "2.0"
 }
