@@ -1,7 +1,7 @@
 {
-  "version": "2.0",
-  "maintenance": false,
+  "version": "2.1",
+  "maintenance": true,
   "maintenanceMessage": "",
-  "latestVersion": "2.1",
-  "downloadUrl": "https://TON-LIEN/GenSpoofOQTF-v2.1-setup.exe"
+  "latestVersion": "2.0",
+  "downloadUrl": ""
 }
